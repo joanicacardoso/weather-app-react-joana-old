@@ -1,0 +1,17 @@
+.Current {
+  text-align: center;
+}
+
+.Current p {
+  font-size: 24px;
+  line-height: 16px;
+}
+
+.Current img {
+  margin-bottom: 20px;
+}
+
+.Conditions {
+  text-align: right;
+  line-height: 16px;
+}
